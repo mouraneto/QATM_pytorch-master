@@ -13,7 +13,7 @@
 #     name: python3
 # ---
 
-#Tese te mmudança de código por neto
+#Tese te mmudança de código por net
 
 import numpy as np
 import cv2
